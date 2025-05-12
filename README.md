@@ -12,6 +12,7 @@ Auto-generated GitHub portfolio with GPT-based code review.
 
 ## How to Run
 ```
+git clone https://github.com/kimhj5379/calendar.git
 cd main-calendar
 python start.py
 ```
